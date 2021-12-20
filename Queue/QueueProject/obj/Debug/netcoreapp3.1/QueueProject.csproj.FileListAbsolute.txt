@@ -1,0 +1,13 @@
+C:\Users\ASI\source\repos\QueueProject\QueueProject\bin\Debug\netcoreapp3.1\QueueProject.exe
+C:\Users\ASI\source\repos\QueueProject\QueueProject\bin\Debug\netcoreapp3.1\QueueProject.deps.json
+C:\Users\ASI\source\repos\QueueProject\QueueProject\bin\Debug\netcoreapp3.1\QueueProject.runtimeconfig.json
+C:\Users\ASI\source\repos\QueueProject\QueueProject\bin\Debug\netcoreapp3.1\QueueProject.runtimeconfig.dev.json
+C:\Users\ASI\source\repos\QueueProject\QueueProject\bin\Debug\netcoreapp3.1\QueueProject.dll
+C:\Users\ASI\source\repos\QueueProject\QueueProject\bin\Debug\netcoreapp3.1\QueueProject.pdb
+C:\Users\ASI\source\repos\QueueProject\QueueProject\obj\Debug\netcoreapp3.1\QueueProject.csprojAssemblyReference.cache
+C:\Users\ASI\source\repos\QueueProject\QueueProject\obj\Debug\netcoreapp3.1\QueueProject.AssemblyInfoInputs.cache
+C:\Users\ASI\source\repos\QueueProject\QueueProject\obj\Debug\netcoreapp3.1\QueueProject.AssemblyInfo.cs
+C:\Users\ASI\source\repos\QueueProject\QueueProject\obj\Debug\netcoreapp3.1\QueueProject.csproj.CoreCompileInputs.cache
+C:\Users\ASI\source\repos\QueueProject\QueueProject\obj\Debug\netcoreapp3.1\QueueProject.dll
+C:\Users\ASI\source\repos\QueueProject\QueueProject\obj\Debug\netcoreapp3.1\QueueProject.pdb
+C:\Users\ASI\source\repos\QueueProject\QueueProject\obj\Debug\netcoreapp3.1\QueueProject.genruntimeconfig.cache

@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "ip54V6y40gd1g5hmqLaMm2eb2k7R3n4gfcymJWSTiEKI6QOAGX8X+h4zIAZhlEq94r6MSiF74GslxYkeYAlS3A==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\ASI\\source\\repos\\haimnewclass\\FS-1\\Queue\\QueueProject\\QueueProject.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Host.win-x64. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.App.Ref. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
